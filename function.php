@@ -18,4 +18,10 @@ function moltiplicazione (n1,n2) {
 	return n1*n2;
 	}
 
+/*Divisione*/
+
+function moltiplicazione (n1,n2) {
+	return n1/n2;
+	}
+	
 ?>
