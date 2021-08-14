@@ -1,3 +1,4 @@
+Versione per GitHub del file
 <php
 
 /*addizione*/
